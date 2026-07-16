@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MDShayem.aternos.me",
+    "ip": "MDShayem.aternos.me:29016",
     "port": 29016,
     "version": "1.21.11",
     "try-creative": false
